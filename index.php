@@ -97,7 +97,7 @@ switch (ENVIRONMENT)
  * This variable must contain the name of your "system" directory.
  * Set the path if it is not in the same directory as this file.
  */
-	$system_path = __DIR__ .'/system';
+	$system_path = __DIR__ .'/System_3.1.4';
 
 /*
  *---------------------------------------------------------------
@@ -114,7 +114,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = __DIR__ .'/application';
+	$application_folder = __DIR__ .'/MCMS';
 
 /*
  *---------------------------------------------------------------
